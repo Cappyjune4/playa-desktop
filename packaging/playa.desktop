@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Playa
+GenericName=Video Player
+Comment=Jellyfin, live TV and your own videos
+Exec=playa %F
+Icon=playa
+Terminal=false
+Categories=AudioVideo;Video;Player;TV;
+Keywords=jellyfin;iptv;tv;video;movie;player;mpv;
+StartupWMClass=playa
+MimeType=video/mp4;video/x-matroska;video/webm;video/x-msvideo;video/quicktime;video/mpeg;video/x-flv;video/x-ms-wmv;video/mp2t;video/3gpp;video/ogg;video/x-m4v;video/vnd.avi;application/x-matroska;

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Playa: a screen whose four sides wear muSE's wordmark colours (blue, green, amber, red),
+     with a white play button in the middle: the sibling of muSE's icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <group android:scaleX="0.62" android:scaleY="0.62" android:pivotX="54" android:pivotY="54">
+        <path android:strokeColor="#FF4DA6F5" android:strokeWidth="7" android:strokeLineCap="round" android:pathData="M26,22 L82,22" />
+        <path android:strokeColor="#FF66BB6A" android:strokeWidth="7" android:strokeLineCap="round" android:pathData="M94,34 L94,70" />
+        <path android:strokeColor="#FFFFB74D" android:strokeWidth="7" android:strokeLineCap="round" android:pathData="M82,82 L26,82" />
+        <path android:strokeColor="#FFEF7061" android:strokeWidth="7" android:strokeLineCap="round" android:pathData="M14,70 L14,34" />
+        <path android:strokeColor="#FF4DA6F5" android:strokeWidth="7" android:pathData="M82,22 A12,12 0 0,1 94,34" />
+        <path android:strokeColor="#FF66BB6A" android:strokeWidth="7" android:pathData="M94,70 A12,12 0 0,1 82,82" />
+        <path android:strokeColor="#FFFFB74D" android:strokeWidth="7" android:pathData="M26,82 A12,12 0 0,1 14,70" />
+        <path android:strokeColor="#FFEF7061" android:strokeWidth="7" android:pathData="M14,34 A12,12 0 0,1 26,22" />
+        <path android:fillColor="#FFF5F5F5" android:pathData="M45,38 Q45,34.5 48,36.2 L66,49.2 Q68.8,52 66,54.8 L48,67.8 Q45,69.5 45,66 Z" />
+        <path android:strokeColor="#FFF5F5F5" android:strokeWidth="6" android:strokeLineCap="round" android:pathData="M42,96 L66,96" />
+    </group>
+</vector>
